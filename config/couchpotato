@@ -1,0 +1,7 @@
+# COPY THIS FILE TO /etc/default/couchpotato 
+# OPTIONS: CP_HOME, CP_USER, CP_DATA, CP_PIDFILE, PYTHON_BIN, CP_OPTS, SSD_OPTS
+
+CP_HOME=/home/vagrant/.couchpotato
+CP_USER=vagrant
+CP_DATA=/home/vagrant/.config/couchpotato
+CP_PIDFILE=/home/vagrant/.pid/couchpotato.pid

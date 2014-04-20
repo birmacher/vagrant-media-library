@@ -1,0 +1,4 @@
+SB_HOME=/home/vagrant/.sickbeard
+SB_USER=vagrant
+SB_DATA=/home/vagrant/.config/sickbeard
+SB_PIDFILE=/home/vagrant/.pid/sickbeard.pid
